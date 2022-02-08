@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/bes_ias.dir/src/main.c.o CMakeFiles/bes_ias.dir/src/memory.c.o CMakeFiles/bes_ias.dir/src/ual.c.o CMakeFiles/bes_ias.dir/src/uc.c.o CMakeFiles/bes_ias.dir/src/translator.c.o CMakeFiles/bes_ias.dir/src/io.c.o  -o bes_ias 
